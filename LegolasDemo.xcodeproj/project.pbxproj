@@ -47,6 +47,7 @@
 		AA2AECED2AE1849600643A62 /* LegolasDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegolasDemoUITests.swift; sourceTree = "<group>"; };
 		AA2AECEF2AE1849600643A62 /* LegolasDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegolasDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AA6D755E2AE575E00010B776 /* ColorDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDemoView.swift; sourceTree = "<group>"; };
+		AADB0BDC2AF2984400FEF239 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		AA2AECC52AE1849500643A62 = {
 			isa = PBXGroup;
 			children = (
+				AADB0BDC2AF2984400FEF239 /* README.md */,
 				AA2AECD02AE1849500643A62 /* LegolasDemo */,
 				AA2AECE22AE1849600643A62 /* LegolasDemoTests */,
 				AA2AECEC2AE1849600643A62 /* LegolasDemoUITests */,
